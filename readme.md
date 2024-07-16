@@ -41,5 +41,12 @@ Frameworks I Have Experience With
 ![1](https://img.shields.io/badge/-red) ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![gcloud](https://img.shields.io/badge/firebase-C22127?style=for-the-badge&logo=firebase&logoColor=red) ![gcloud](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 
+&nbsp;
+
+<p align="left">A meme to brighten your day </p>
+
+<img align="center" alt="Coding" width="500" src="
+https://media1.giphy.com/media/l2Sq3AFdI4rUlTAti/giphy.gif?cid=6c09b95268nqkn64lwcwll8l2r6et0bdcq6x37c87zpgabjt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 
 📫 Contact: **he_rp@outlook.com**
