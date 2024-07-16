@@ -44,4 +44,4 @@ Frameworks I Have Experience With
 
 <h3 align="left">Contact</h3>
 
-[![email](https://img.shields.io/badge/e--mail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:he_rp@outlook.com)
+[![Email Badge](https://img.shields.io/badge/e--mail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:he_rp@outlook.com)  
