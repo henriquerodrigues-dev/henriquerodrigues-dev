@@ -1,8 +1,8 @@
 <h1 align="center">Hi 
-    <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-    </picture>, 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32">
+</picture>
 I'm Henrique</h1>
 
 <h3 align="left">> Fullstack Developer _</h3>
