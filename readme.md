@@ -1,13 +1,22 @@
-<h1 align="center">Hi 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="32" height="32">
-</picture>
-I'm Henrique</h1>
+<div align="center">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="64" height="64">
+  </picture>
+</div>
 
-<h3 align="left">> Fullstack Developer _</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=2000&color=4285F4&center=true&random=true&width=435&lines=%3E+Hello%2C+World!_;%3E+I'm+Henrique+Rodrigues_" alt="Typing SVG" />
+  </a>
+</div>
 
-<img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1></h1>
+
+<div align="center" style="margin-top: 20px;"> <!-- Espaço entre a seção anterior e o GIF -->
+  <img src="https://preview.redd.it/r33zj1cmc2vc1.gif?width=750&format=mp4&s=6cdfaffd586168dd2b2d4b54193b4db0c6ba90c3" alt="Meu GIF" width="400"> <!-- Substitua pelo URL do seu GIF -->
+</div>
+
 
 &nbsp;
 
