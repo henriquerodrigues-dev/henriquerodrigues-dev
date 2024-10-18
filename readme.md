@@ -4,8 +4,6 @@
 
 <h1></h1>
 
-&nbsp;
-
 <h3 align="left">
     <picture>
         <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
