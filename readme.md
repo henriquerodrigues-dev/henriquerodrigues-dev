@@ -63,4 +63,4 @@
 
 <h1></h1>
 
-<img src="https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif" alt="Banner" width="700" height="350" />
+<img src="https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif" alt="Banner" width="800" />
