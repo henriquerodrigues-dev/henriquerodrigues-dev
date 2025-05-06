@@ -62,5 +62,10 @@
 [![Email Badge](https://img.shields.io/badge/e--mail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:he_rp@outlook.com)
 
 <h1></h1>
-
-<img src="https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif" alt="Banner" width="800" />
+<h3>A meme to brighten your day
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="18" height="18">
+  </picture>
+</h3>
+<img src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" alt="Banner" width="1300" />
