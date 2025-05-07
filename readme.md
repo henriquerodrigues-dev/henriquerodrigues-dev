@@ -6,8 +6,8 @@
 
 <h3 align="left">
     <picture>
-        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="16" height="16">
+        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" type="image/webp">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="✨" width="16" height="16">
     </picture>
     Experience
 </h3>
@@ -23,9 +23,9 @@
 
 
 <h3 align="left">
-    <picture>
-        <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="16" height="16">
+   <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="16" height="16">
     </picture>
     Frameworks
 </h3>
@@ -41,7 +41,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 
-<h3 align="left">DB</h3>
+<h3 align="left">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="16" height="16">
+  </picture>
+  DB
+</h3>
 
 ![1](https://img.shields.io/badge/-blue) 
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -49,7 +55,13 @@
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)       
 
-<h3 align="left">Tools</h3>
+<h3 align="left">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="16" height="16">
+  </picture>
+  Tools
+</h3>
 
 ![1](https://img.shields.io/badge/-blue) 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -61,11 +73,5 @@
 
 [![Email Badge](https://img.shields.io/badge/e--mail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:he_rp@outlook.com)
 
-<h1></h1>
-<h3>A meme to brighten your day
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="18" height="18">
-  </picture>
-</h3>
-<img src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" alt="Banner" width="1300" />
+<hr>
+<img src="https://giffiles.alphacoders.com/165/16592.gif" alt="Banner" width="1300" />
