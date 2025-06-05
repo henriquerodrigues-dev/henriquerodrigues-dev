@@ -78,4 +78,7 @@
 <hr>
 <img src="https://giffiles.alphacoders.com/165/16592.gif" alt="Banner" width="1300" />
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align=center>
+  <img src="https://raw.githubusercontent.com/henriquerodrigues-dev/henriquerodrigues-dev/output/snake.svg" alt="Snake animation" />
+</div>
+
