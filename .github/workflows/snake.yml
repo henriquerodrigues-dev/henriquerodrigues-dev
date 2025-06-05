@@ -1,0 +1,25 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite
+  push:
+    branches:
+      - main  # ou sua branch principal
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate contribution snake
+        uses: platane/snk@v0.3.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit snake SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update GitHub contribution snake"
+          git push

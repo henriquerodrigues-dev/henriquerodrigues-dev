@@ -77,3 +77,5 @@
 
 <hr>
 <img src="https://giffiles.alphacoders.com/165/16592.gif" alt="Banner" width="1300" />
+
+![GitHub Snake animation](github-contribution-grid-snake.svg)
