@@ -12,14 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate contribution snake
-        uses: platane/snk@v0.3.1
+        uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-contribution-grid-snake.svg
+
       - name: Commit snake SVG
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add github-contribution-grid-snake.svg
-          git commit -m "Update GitHub contribution snake"
+          git commit -m "Update GitHub contribution snake" || echo "No changes to commit"
           git push
