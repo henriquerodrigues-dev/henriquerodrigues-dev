@@ -23,7 +23,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS-Business-3DDC84?style=for-the-badge&logo=vercel&logoColor=white)
 
 <h3 align="left">
    <picture>
