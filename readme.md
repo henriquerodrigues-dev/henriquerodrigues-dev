@@ -2,6 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=2000&color=0779b9&center=true&random=true&width=435&lines=%3E+Hello%2C+World!_;%3E+I'm+Henrique+Rodrigues_" alt="Typing SVG" /></a>
 </div>
 
+<p align="center">
+  Fullstack Developer • Backend-focused • Data & Analytics • Game Dev enthusiast
+</p>
+
 <h1></h1>
 
 <h3 align="left">
