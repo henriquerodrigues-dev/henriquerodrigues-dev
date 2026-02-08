@@ -79,16 +79,6 @@
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=000)
 ![Amazon_S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
-
-![1](https://img.shields.io/badge/-blue)  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Bucket](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![UPBGE](https://img.shields.io/badge/UPBGE-0078D7?style=for-the-badge&logo=blender&logoColor=white)
 ![Range Engine](https://img.shields.io/badge/Range_Engine-FF6600?style=for-the-badge)
@@ -99,6 +89,8 @@
 
 
 <h3 align="left">Contact</h3>
+
+![1](https://img.shields.io/badge/-blue)  
 
 [![Email Badge](https://img.shields.io/badge/e--mail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:he_rp@outlook.com)
 
